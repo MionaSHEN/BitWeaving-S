@@ -1,6 +1,6 @@
 # BitWeaving-S  
 ## Overview
-A simple implementation of BitWeaving, a technique that exploits the parallelism available at the bit level in modern processors. BitWeaving operates on multiple bits of data in a single cycle, processing bits from different columns in each cycle. For more details, please refer to [the BitWeaving Paper](https://dl.acm.org/doi/10.1145/2463676.2465322).    
+A simple C++ implementation of BitWeaving, a technique that exploits the parallelism available at the bit level in modern processors. BitWeaving operates on multiple bits of data in a single cycle, processing bits from different columns in each cycle. For more details, please refer to [the BitWeaving Paper](https://dl.acm.org/doi/10.1145/2463676.2465322).    
 ## Usage
 Just compile and run.
 ```
