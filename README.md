@@ -3,10 +3,10 @@
 A simple implementation of BitWeaving, a technique that exploits the parallelism available at the bit level in modern processors. BitWeaving operates on multiple bits of data in a single cycle, processing bits from different columns in each cycle. For more details, please refer to [the BitWeaving Paper](https://dl.acm.org/doi/10.1145/2463676.2465322).    
 ## Usage
 Just compile and run.
-'''
-make
+```
+make  
 ./BitWeaving
-'''
+```
 ## Detail of the codes
 ### Basic information
 In this program VBP (Algorithm 2 in [the BitWeaving Paper](https://dl.acm.org/doi/10.1145/2463676.2465322)) is implemented. You can set the number of rows of data in the database, as well as the length of the data (number of bits used to represent a row of data). The length of each word is fixed to 32.
