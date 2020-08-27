@@ -1,3 +1,3 @@
-# BitWeaving-S
-A simple implementation of BitWeaving, a technique that exploits the parallelism available at the bit level in modern processors. BitWeaving operates on multiple bits of data in a single cycle, processing bits from different columns in each cycle. For more details, please refer to https://dl.acm.org/doi/10.1145/2463676.2465322 
-Yinan Li and Jignesh M. Patel. 2013. BitWeaving: fast scans for main memory data processing. In Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data (SIGMOD '13). Association for Computing Machinery, New York, NY, USA, 289–300. DOI:https://doi.org/10.1145/2463676.2465322
+# BitWeaving-S  
+A simple implementation of BitWeaving, a technique that exploits the parallelism available at the bit level in modern processors. BitWeaving operates on multiple bits of data in a single cycle, processing bits from different columns in each cycle. For more details, please refer to https://dl.acm.org/doi/10.1145/2463676.2465322   
+Yinan Li and Jignesh M. Patel. 2013. BitWeaving: fast scans for main memory data processing. In Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data (SIGMOD '13). Association for Computing Machinery, New York, NY, USA, 289–300. DOI:https://doi.org/10.1145/2463676.2465322  
