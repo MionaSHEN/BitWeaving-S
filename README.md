@@ -5,7 +5,7 @@ A simple C++ implementation of BitWeaving, a technique that exploits the paralle
 Just compile and run.
 ```
 $ make  
-$ ./BitWeaving
+$ ./bitweaving
 ```
 ## Detail of the codes
 ### Basic information
